@@ -2,4 +2,4 @@
 project task 3
 
 
-<img src="/tkh-team-18/robot%20pic.png" alt="Alt text">
+<img src="/tkh-team-18/robotpic.png" alt="Alt text">
