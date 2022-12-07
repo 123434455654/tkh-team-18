@@ -26,3 +26,18 @@ Ahmed Samy, had a pivotal tasks to accomplish the task, made the piece of code t
 
 ## User input and the foreseeable output
 The code was designed to be as simple as possible for user; as 3 choices are displayed for the user and the user inputs a number between 1 and 3 to choose. The foreseeable output that the robot moves from a certain point to a certain target as shown in the figure above.
+
+## Process of the code 
+The user inputs a choice between 1 and 3, then each choice has a specific intial position and target. In addition, list of initial position, target and peak of curve is made to utilized by the polyfit and poly1d funtions to create the path for the robot. Then looping the points of the curve to constantly update the current location of the vehicle and altering the steering angle as well. The below figure shows a simple flowchart for a better understanding of the process.
+
+![flowchart](https://user-images.githubusercontent.com/114657588/206302860-29233b41-90cc-4414-8f0a-473153cc0176.png)
+
+
+
+
+
+
+
+
+
+## Limitations and room for improvement
