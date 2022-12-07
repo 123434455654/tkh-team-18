@@ -41,3 +41,5 @@ The user inputs a choice between 1 and 3, then each choice has a specific intial
 
 
 ## Limitations and room for improvement
+One of the limitations is that the user can not enter any coordinates the user wants to enter for the initial position and the target. Another worth mentioning point, the robot may be too close to the obstacle, hence the robot may tilt while moving towards the target.
+On the other hand, there is a room for improvement
