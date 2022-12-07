@@ -42,4 +42,4 @@ The user inputs a choice between 1 and 3, then each choice has a specific intial
 
 ## Limitations and room for improvement
 One of the limitations is that the user can not enter any coordinates the user wants to enter for the initial position and the target. Another worth mentioning point, the robot may be too close to the obstacle, hence the robot may tilt while moving towards the target.
-On the other hand, there is a room for improvement
+On the other hand there is a room for improvement. For example, the user inputs any coordinates the user wants. Moreover a more accurate tolerance, which can be made by trial and error, can overcome the problem of tilting the robot. Therefore, a more flexible path may aid in tackling the problem of being too close to an obstacle.
