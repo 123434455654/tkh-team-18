@@ -21,8 +21,8 @@ Firstly, you need to download python 3.6 at least, then download robotics toolbo
 
 ## Team members and their contribution
 Mohamed Amr, he was responsible to import the libraries, which was vital for the animation and simulation. Not only, importing the libraries, but also printing the opening message and setting the robot's icon scale.
-Omar Sherif, who had an integral role as: he made the grid size, plotted the obstacles and the map, plotted the target on the grid and setting its size and coordinates, and finally splitting the X and Y coordinates for the polyfit function, which aids in making the path.
-Ahmed Samy, had a pivotal tasks to accomplish the task, made the piece of code that moves the robot from the initial position towards the target. He coded the steering angles and, using sensors, checking the distance between the vehicle and the target to know when to stop it.
+Omar Sherif, who had an integral role as: he made the grid size, plotted the obstacles and the map, plotted the target on the grid and setting its size and coordinate. Finally, splitting the X and Y coordinates for the polyfit function, which aids in making the path.
+Ahmed Samy, had a pivotal tasks to accomplish the task, made the piece of code that moves the robot from the initial position towards the target. He coded the steering angles and, using sensors, checking the distance between the vehicle and the target to know when to stop it as well.
 
 ## User input and the foreseeable output
-
+The code was designed to be as simple as possible for user; as 3 choices are displayed for the user and the user inputs a number between 1 and 3 to choose. The foreseeable output that the robot moves from a certain point to a certain target as shown in the figure above.
