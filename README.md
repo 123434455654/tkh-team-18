@@ -7,3 +7,4 @@ Firstly, the user will have 3 choices for the journey of the robot, each choice 
 ## Real life applications for the robot
 Transportation: for instance, the robot may deliver a packages to certain locations like a warehouse that consists of 3 storage units. The robot may 
 ![image](https://user-images.githubusercontent.com/104323652/206169501-c55e5f73-1e10-48a4-b346-cffa58a30789.png)
+Firstly, you need to download python 3.6 at least, then download robotics toolbox which gives you access to library, data, commands and visuals maps or any visual data. You also need to download visual studio or any other app that understands and can run the python code, and finally it is recommended to download ubuntu as the operating system, but windows is also a viable option.
