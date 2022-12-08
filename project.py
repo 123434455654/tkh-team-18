@@ -22,7 +22,7 @@ elif choice ==2:
     goal_arr=[[6,-6],[5,1],[-7,-7],[0,5]]
 elif choice ==3:
     goal_arr=[[7.5,7.5],[0,3],[3,4],[-7,3]]
-while choice>3:
+while choice>3 or choice<0:
     print("error didnt enter a valid number, choose 1 or 2 or 3")
     choice=int(input("enter the number:"))
     if choice==1:
